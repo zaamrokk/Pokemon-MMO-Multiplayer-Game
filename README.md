@@ -1,7 +1,7 @@
 # Simple realtime platform game build with Phaser.io
 **Simple realtime Pokemon game build with Phaser 3, Colyseus.io & Webpack 4.**
 
-![PokeMMO](https://github.com/zaamrokk/Pokemon-MMO-Multiplayer-Game/blob/master/docs/images/PokeMMO.gif?raw=true)
+![PokeMMO](https://github.com/zaamrokk/Pokemon-MMO-Multiplayer-Game/blob/main/docs/images/PokeMMO-know-bug.gif?raw=true)
 
 ### Features & ToDo
 - [x] Multiple players can join the game
